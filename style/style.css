@@ -5,15 +5,9 @@ box-sizing: border-box;
 }
 
 
-
-
 .main{
-    width: 17%;
-    outline: 9px;
-    border: 15px;
-    
+    width: 20%;
     padding: 17px;
-    vertical-align: center;
     background-color: rgb(243, 240, 240);
 }
 
