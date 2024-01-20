@@ -1,0 +1,42 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+
+
+.main{
+    width: 17%;
+    outline: 9px;
+    border: 15px;
+    
+    padding: 17px;
+    vertical-align: center;
+    background-color: rgb(243, 240, 240);
+}
+#a2{
+    border: 5px;
+    margin: 4px;
+    padding: 8px;
+    
+}
+
+
+.save{
+    width: 90px;
+    background-color: purple;
+    color: white;
+    border-radius: 0 25 0 25;
+}
+
+
+.p{
+      color:#F37123;                                       
+}
+
+.b{
+    background-color: #F2F4F8;
+    color: blue;
+}
